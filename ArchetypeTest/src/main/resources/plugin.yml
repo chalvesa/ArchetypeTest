@@ -1,5 +1,5 @@
 name: ArchetypeTest
-main: edu.unca.schalvet.ArchetypeTest.ArchetypeTest
+main: edu.unca.schalvet.ArchetypeTest.MyPlugin
 version: 0.1
 
 commands:
